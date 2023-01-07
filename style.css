@@ -50,6 +50,11 @@ nav a:hover {
 	color: #00b8d4;
 }
 
+#leclub {
+	border: 1px #000 solid;
+	padding: 5px;
+}
+
 main {
 	max-width: 1200px;
 	margin: 0 auto;
@@ -113,5 +118,6 @@ footer {
 		width: 100%;
 		height: auto;
 		margin-right: 0;
+		margin-bottom: 20px;
 	}
 }
