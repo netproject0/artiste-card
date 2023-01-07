@@ -77,6 +77,10 @@ footer {
 }
 
 @media (max-width: 980px) {
+	header {
+		font-size: 5em;
+	}
+
 	header img {
 		width: 150px;
 		height: 150px;
@@ -88,7 +92,16 @@ footer {
 	}
 
 	nav li {
-		margin: 10px 0;
+		margin: 10px 10px;
+		font-size: 2em;
+	}
+
+	section h2 {
+		font-size: 2em;
+	}
+
+	p
+		font-size: 1em;
 	}
 
 	#carrousel {
