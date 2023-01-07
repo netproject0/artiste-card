@@ -55,6 +55,11 @@ nav a:hover {
 	padding: 5px;
 }
 
+.bordered-section{
+	border: 1px #000 solid;
+	padding: 5px;
+}
+
 main {
 	max-width: 1200px;
 	margin: 0 auto;
